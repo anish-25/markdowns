@@ -1,4 +1,4 @@
-#Assumptions Edit
+#AssumptionsEdit
 
 * The send partner system will provide and manage the necessary interfaces required by the sender to create an international money transfer request.
 2. The send partner system then integrates with TerraPay to access the services provided.
